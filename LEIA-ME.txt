@@ -1,0 +1,18 @@
+SITE INSTITUCIONAL - 58.325.336 Renato Henrique de Souza Barbosa
+
+Arquivos:
+- index.html: página principal
+- sobre.html: página institucional
+- privacidade.html: política de privacidade
+- termos.html: termos de uso
+- style.css: estilos personalizados
+- assets/: imagens enviadas pelo cliente
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Mantenha a pasta assets junto aos arquivos HTML.
+3. Abra index.html no navegador.
+
+O Bootstrap 5.3.3 e Bootstrap Icons são carregados por CDN, então a conexão com a internet é necessária para esses recursos.
+Antes de publicar, revise os textos legais e confirme se os dados de contato, cadastro, serviços, cookies e ferramentas de publicidade correspondem à operação real.
+As imagens da galeria são ilustrativas e não devem ser interpretadas como garantia de cardápios ou estrutura específica.
